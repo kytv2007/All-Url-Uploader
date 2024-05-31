@@ -12,8 +12,8 @@
     "remote",
     "uploader"
   ],
-  "website": "kalanakt.github.io/projects/telegram/all-url-uploader ",
-  "repository": "https://github.com/kalanakt/All-Url-Uploader",
+  "website": "www.google.com ",
+  "repository": "https://github.com/kytv2007/All-Url-Uploader",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
